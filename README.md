@@ -3,7 +3,9 @@ A simple project Arduino based, a metronome using led switch to imitate a metron
 
 <h2>The project in Tinkercad</h2>
 
-<img width="80%" src="https://github.com/willyans-afr/Silent-Metronome/blob/main/Project-image/SilentMetronome2.png" alt="Silent Metronome Project"/>
+<img width="60%" src="https://github.com/willyans-afr/Silent-Metronome/blob/main/Project-image/SilentMetronome2.png" alt="Silent Metronome Project"/>
+
+<a href="https://www.tinkercad.com/things/1ntTxiGB9CV-silent-metronome/editel?sharecode=JcxH-F45JNbbR0kXhHPXtASKe3-B3yXsPFDlRFxO2vI">Click here to see in Tinkercad<a/>
 
 <h2>Used materials</h2>
 
