@@ -1,9 +1,9 @@
 # Silent Metronome
-A simple project Arduino based, a metronome using led switch to imitate a metronome sound and a lcd screen to show bpm and note duration time.
+A simple project Arduino based, a metronome using led switch to imitate a metronome sound (but is visual) and a lcd screen to show bpm and note duration time.
 
 <h2>The project in Tinkercad</h2>
 
-
+<img width="80%" src="https://github.com/willyans-afr/Silent-Metronome/blob/main/Project-image/SilentMetronome2.png" alt="Silent Metronome Project"/>
 
 <h2>Used materials</h2>
 
